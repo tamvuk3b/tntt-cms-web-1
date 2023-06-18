@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0B6C8DB7-4E3E-4950-9BD0-037B71668634}|https">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThieuNhiTT" expanded="True">
+            <Node name="ThieuNhiTT.Web" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ThieuNhiTT.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
